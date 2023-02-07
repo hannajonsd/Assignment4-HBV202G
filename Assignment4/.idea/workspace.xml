@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15009b18-b68a-45cc-9975-e573197f8507" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/is/hi/voa6/hbv202g/ass4/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/is/hi/voa6/hbv202g/ass4/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/is/hi/voa6/hbv202g/ass4/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/is/hi/voa6/hbv202g/ass4/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runjar.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/runjar.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-is.hi.voa6.hbv202g.ass4.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-is.hi.voa6.hbv202g.ass4.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/is.hi.voa6.hbv202g.ass4.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/is.hi.voa6.hbv202g.ass4.AppTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
   <component name="RunManager">
@@ -66,5 +65,9 @@
       <updated>1675765510003</updated>
     </task>
     <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
