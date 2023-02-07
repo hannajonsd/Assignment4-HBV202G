@@ -1,4 +1,5 @@
-package $org.example;
+package is.hi.voa6.hbv202g.ass4;
+
 
 /**
  * Hello world!

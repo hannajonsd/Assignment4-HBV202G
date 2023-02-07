@@ -1,4 +1,4 @@
-package $org.example;
+package is.hi.voa6.hbv202g.ass4;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
